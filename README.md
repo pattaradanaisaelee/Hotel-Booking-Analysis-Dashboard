@@ -10,8 +10,8 @@ The Hotel Booking Analysis Dashboard is a Power BI project that analyzes hotel b
 - Analysis and Conclusion
 
 # Data Source
--Dataset: Hotel Booking Demand Dataset
--Source: https://www.kaggle.com/datasets/mojtaba142/hotel-booking/data
+- Dataset: Hotel Booking Demand Dataset
+- Source: https://www.kaggle.com/datasets/mojtaba142/hotel-booking/data
 
 # Business Terminology
 The dashboard uses several hospitality industry metrics:
