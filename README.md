@@ -64,5 +64,14 @@ This Dashboard containt 3 parts
 
 ![Cancellation](Cancellation.PNG)
 
+# Analysis and Conclusion
 
+The dashboard helps answer important business questions, including:
+- Which hotel type generates the highest revenue? **City Hotel**
+- What factors contribute to booking cancellations? **Most likely Lead Time.**
+- How do booking trends change throughout the year?
+- Which market segments produce the most bookings?
+- How do special requests impact booking behavior?
+
+These insights enable hotel management to optimize pricing strategies, reduce cancellation rates, improve customer satisfaction, and maximize revenue through informed decision-making.
 
