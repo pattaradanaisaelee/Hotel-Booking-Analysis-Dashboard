@@ -17,5 +17,6 @@ This Data Contain
 # DAX Formulas
 This part containt 2 separate part. Measure DAX and Columns DAX
 - Measure DAX
-  * Total Bookings = COUNTROWS(hotel_booking)
+  * **Total Bookings** : Total Number of Bookings
+    * Formulas : Total Bookings = COUNTROWS(hotel_booking)
 
