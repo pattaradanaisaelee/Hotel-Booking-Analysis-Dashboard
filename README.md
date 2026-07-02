@@ -58,11 +58,11 @@ This Dashboard containt 3 parts
 
 **Cancellation Analysis**
 
-![Customer Behavior](Dashboard/Customer%20Behavior.PNG)
+![Customer Behavior](Customer%20Behavior.PNG)
 
 **Customer Behavior**
 
-![Cancellation](Dashboard/Cancellation.PNG)
+![Cancellation](Cancellation.PNG)
 
 
 
