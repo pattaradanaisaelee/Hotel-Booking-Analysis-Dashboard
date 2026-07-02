@@ -53,6 +53,7 @@ This Dashboard containt 3 parts
 - **Customer Behavior**
 
 **Overview**
+![Dashboard Overview](images/overview.png)
 
 **Cancellation Analysis**
 
