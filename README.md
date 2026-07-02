@@ -23,4 +23,5 @@ This part containt 2 separate part. Measure DAX and Columns DAX
     * Formulas : Total Bookings = COUNTROWS(hotel_booking)
   * **Total Revenue** :
     * Formulas : Total Revenue = CALCULATE(SUMX(hotel_booking,hotel_booking[adr] * hotel_booking[Total Nights]),hotel_booking[is_canceled] = 0)
-
+  * **Cancellation Rate**:
+  * * Formulas : Cancellation Rate (%) = DIVIDE(CALCULATE(COUNTROWS(hotel_booking),hotel_booking[is_canceled] = 1),COUNTROWS(hotel_booking),0)
