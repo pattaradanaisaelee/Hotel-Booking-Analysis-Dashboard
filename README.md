@@ -12,11 +12,15 @@ The Hotel Booking Analysis Dashboard is a Power Bi Project
 
 # Introduction to Dataset
 data source: https://www.kaggle.com/datasets/mojtaba142/hotel-booking/data 
-This Data Contain 
+This part explain hotel technical term
+- **ADR** stand for Average Daily Rate 
+- **Lead Time** stand for 
 
 # DAX Formulas
 This part containt 2 separate part. Measure DAX and Columns DAX
 - Measure DAX
   * **Total Bookings** : Total Number of Bookings
     * Formulas : Total Bookings = COUNTROWS(hotel_booking)
+  * **Total Revenue** :
+    * Formulas : Total Revenue = CALCULATE(SUMX(hotel_booking,hotel_booking[adr] * hotel_booking[Total Nights]),hotel_booking[is_canceled] = 0)
 
